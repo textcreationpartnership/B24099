@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes out of Islington, or, A dialogue very merry and pleasant betwixt a knavish projector, and honest clod the plough-man with certaine songs of the late fall of the new beare-garden, and for the fall of projectors / by Tho. Herbert.</title>
+            <author>Herbert, Thomas, 1597-1642?</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24099</idno><idno type="EEBO-CITATION">8153795</idno>
+  <idno type="VID">204227</idno>
+  <idno type="EEBO-PROQUEST">2264207957</idno>
+  
+            <idno type="STC">Wing H1530A</idno>
+            <idno type="OCLC">08153795</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1230:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes out of Islington, or, A dialogue very merry and pleasant betwixt a knavish projector, and honest clod the plough-man with certaine songs of the late fall of the new beare-garden, and for the fall of projectors / by Tho. Herbert.</title>
+                  <author>Herbert, Thomas, 1597-1642?</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Lambert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204227:1"/>
+            <pb facs="tcp:204227:2"/>
+            <pb facs="tcp:204227:2"/>
+            <p>Newes out of Islington.</p>
+            <p>
+               <hi>OR,</hi> A Dialogue very merry and pleasant betwixt a knavish <hi>Pro<g ref="char:EOLhyphen"/>jector,</hi> and honest <hi>Clod</hi> the <hi>Plough-man.</hi>
+            </p>
+            <p>With certaine Songs of the late fall of the new <hi>Beare-garden;</hi> and for the fall of <hi>Projectors.</hi>
+            </p>
+            <p>By <hi>Tho. Herbert.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Lambert,</hi> and are to be sold at his shop in Smithfield, over against Hosier Lane at the signe of the Bunch of Grapes. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:204227:3"/>
+            <pb n="1" facs="tcp:204227:3"/>
+            <head>Newes out of <hi>Islington.</hi>
+            </head>
+            <sp>
+               <speaker>Project.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hy how now Plough-man: what melancholy?</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Yes, and more than me<g ref="char:EOLhyphen"/>lancholy, I am mad; nay, more, I am stark mad, and ever will be mad, what's that to thee?</p>
+            </sp>
+            <sp>
+               <speaker>Pro.</speaker>
+               <p>Prethee tell me the cause?</p>
+            </sp>
+            <sp>
+               <speaker>Plo.</speaker>
+               <p>The cause? to give halfe of a French Crown for a Mastive, and then to have the Bear-garden, blown downe, I think is suf<g ref="char:EOLhyphen"/>ficient cause enough to make the patien<g ref="char:EOLhyphen"/>test plough-man in Christendome goe hang himselfe.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Is the Bear-garden down?</p>
+            </sp>
+            <sp>
+               <speaker>Plou.</speaker>
+               <p>Yes marry is it, if you will not be<g ref="char:EOLhyphen"/>lieve me, you may goe to <hi>Islington</hi> and see it lie as flat as a Shrove-tuesday pan-cake; but this tricke shall make me to be more wise than to spend childrens portions <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:204227:4"/>building of Beare-gardens, if the windes grow so high once.</p>
+            </sp>
+            <sp>
+               <speaker>Pro.</speaker>
+               <p>I am of this conceit plough-man, that the winds conspired together, to make thee first run out of thy cloaths, then out of thy wits, &amp; then goe hang thy selfe.</p>
+            </sp>
+            <sp>
+               <speaker>Plou.</speaker>
+               <p>You are deceived Projector, the winds came onely for this purpose: that thinking thou hadst procured a patent for Bear-baiting, and hadst then been trying thy skill, they intended to drive thee and thy patent both in hell together; but your time being yet not come, it mist you, and overthrew the Bear-garden.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>This plough-man hath more wit than halfe a dozen of the wisest Proje<g ref="char:EOLhyphen"/>ctors in <hi>England;</hi> I have invented a pro<g ref="char:EOLhyphen"/>ject to make him free of our Corporati<g ref="char:EOLhyphen"/>on; some of his trade wee have already, and if we had him also, wee were made: honest plough-man I have hitherto been in jest, and so I hope hast thou.</p>
+            </sp>
+            <sp>
+               <speaker>Plou.</speaker>
+               <p>Ile tell thee (Projector) another reason why of late the winds blew so furi<g ref="char:EOLhyphen"/>ously: It was to give the whole world no<g ref="char:EOLhyphen"/>tice,
+<pb n="3" facs="tcp:204227:4"/>that all projectors were knaves, and that they would undoe all <hi>England,</hi> if that young <hi>Brandon</hi> had not the cutting them off very speedily.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Come, I know plough-man, that thou hast bin all this time in jest, (because I love thee well) be rul'd by me, and Ile shew thee a way to bee rich in spight of fortune, and become honourable in spight of all thy enemies.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>And become a knave in spight of the devill himselfe, as you are.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Good ploughman, interrupt me no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; as you like my motion so make use of it.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>To make use of thy motion, will be to climbe nine motions hand and foot, (<hi>Tiburne</hi>) and never come downe againe, untill young <hi>Greg▪</hi> make use of his cute lash; and I am sure that will be worse than vexing at the fall of the new Bear-garden. But yet I pray let me heare your motion, as I like it, so will I make use of it.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Doe, and flourish, doe what thou wilt, command what thou wile, and take
+<pb n="4" facs="tcp:204227:5"/>what thou wilt, who is't shall dare for to controule thee? I my selfe which now am called projector throughout the world, when first I took upon me that same trade I was not worth the third part of a groat: but now through my Projects, who of late could have done more in the world than I? what, and who was hee which I com<g ref="char:EOLhyphen"/>manded not? I have pulled downe and raised up: I have snatched away from some, and given again to others some, but kept the best part to my selfe. Those which I thought would not easily be brought to my purpose, I allured them by my golden hook, and so drawed them unto mee, and so maist thou. Those which I thought endeavoured to prevent my plots, I kept them close, and made them con the old Proverb, <hi>silentia tutum est:</hi> in plain tearms I made them as mute as fishes; and so maist thou.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Faith Mr. Projector so I may be hang'd as well as you: I shall heare good scrape anon I make no question.</p>
+            </sp>
+            <sp>
+               <speaker>Pro.</speaker>
+               <p>I could brag of a hundred feats which
+<pb n="5" facs="tcp:204227:5"/>I have done alone, and so in time maist thou, of the Patents which I have procu<g ref="char:EOLhyphen"/>red. To be short I can bragge that I have cheated the whole world.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Brag on: I make no question but that shortly young <hi>Greg.</hi> will cheate you; hee will serve you as the Butcher his Dog, make you believe he carries you to break<g ref="char:EOLhyphen"/>fast, but it will prove a hanging one.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>What saist thou plough-man, wilt thou make use of my motion?</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Will you have me make use of I know not what?</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>In plaine termes, wilt thou turne Projector or Cheater, which thou wilt, as I am, couzen the world as I doe, and then shalt thou have as I have.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Good Mr. projector, two words to a bargaine: I love money well, but my neck better.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Why dost thou not thinke, but that I have wayes enough to keep my selfe from hanging?</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Faith Sir I cannot tell, I thinke if you be not hang'd the more is the pitty.</p>
+            </sp>
+            <pb n="6" facs="tcp:204227:6"/>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Push man, I have such friends as the world cannot yeeld the like.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>I cannot tell; perhaps you may ve<g ref="char:EOLhyphen"/>rifie the old proverb; what saies <hi>M. Parker,</hi> the more knave the better fortune, but yet it is verie unlikely. There is a certaine thing, good Master projector, (If I be not deceiv'd) cald Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>What have I to doe with that?</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>I know not whether you have any thing to doe with that or no, but I am sure they will have somewhat to doe with you: I doubt me, that I shal be troub<g ref="char:EOLhyphen"/>led to come out of the Country to see you take a turne in the Citie.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>What if I have the Pope to my friend?</p>
+            </sp>
+            <sp>
+               <speaker>Ploughman.</speaker>
+               <p>Faith if thou have ten popes, and as many devills, I believe it will prove so.</p>
+            </sp>
+            <sp>
+               <speaker>Pro.</speaker>
+               <p>I cannot but laugh at thy simplicity.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>You may laugh as much as you please at me living, but looke to it, Ile laugh ten times as much at you hanging.</p>
+            </sp>
+            <sp>
+               <speaker>Pro.</speaker>
+               <p>Ile tell thee <hi>ploughman</hi> let the worst
+<pb n="7" facs="tcp:204227:6"/>come to the worst, I can fly to him, and so maist thou.</p>
+            </sp>
+            <sp>
+               <speaker>Plou:</speaker>
+               <p>Truely I know not the way, nor doe I intend to learne, perhaps some of your tribe which weare the popes livery, having beene lately there, have layd a clew to direct you thither, wherefore take your journy when you please good Mr. project<g ref="char:EOLhyphen"/>or if your forerunners have deceived you, I make no question but that there be 20. Iesuits in England can guide you the way, as for my part I love so well the K. of En<g ref="char:EOLhyphen"/>gland that I intend never to run to Rome.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>You will not.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>no indeed Mr. Projector, I had rather work with my plow at home then to play at hazard abroad.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>you need not disdain it, for as good as you doe hazard abroad.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Nay good Mr. Projector you need not say so, for I know very well that there have been two or three notable ram<g ref="char:EOLhyphen"/>blers not long since Sr. Iohn Mandevill. I have read their travels.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>ploughman now I perceive that you can jeare knavishly.</p>
+            </sp>
+            <pb n="8" facs="tcp:204227:7"/>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>And I know that projectors can che<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te rogishly, but ile be sure to keepe within compas, there is a new Booke come out lately which is called so.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>well ploughman you will not take my advice.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>No, good Mr. Projector.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>There have beene some of your occupation which doe.</p>
+            </sp>
+            <sp>
+               <speaker>Plough</speaker>
+               <p>J make no question somtimes but that a ploughman may become a paire of gallowes as well as a Citizen. Do you think that there be not as long cares for the pillo<g ref="char:EOLhyphen"/>ry and necks for the rope in the Countrey as well as the City, yes ile warrant you good Mr. Projector.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Well I see you are no man for my purpose, wherefore fare you well cloddish ploughman.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>A word with you before you g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e good Mr. Projector.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Speake your pleasure.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>Here is a groat for you, (because you should not put the Common wealth to charges) to buy a rope and hang thy selfe.</p>
+               <pb n="9" facs="tcp:204227:7"/>
+               <p>But now I remember my selfe, J wil save my groat for feare young Gregory be angry with mee for hindring him of some of his practises.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>Time hath beene, base Clod, that you nor the proudest in the world dared not once to affront me.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>I but (God be thanked) there hath bene a Parliament since which is the reason that so many of the Projectors cor<g ref="char:EOLhyphen"/>porations breeches make buttons.</p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>This whorson varlet pricks mee to the heart.</p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>I see you are sad Sir, wherefore to make you merry listen but a while, and il'e sing you a song of the New Bearegar<g ref="char:EOLhyphen"/>dens fall, perhaps you may pick some<g ref="char:EOLhyphen"/>thing out of it for your own consolation.</p>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>A SONG.</head>
+                        <opener>To the tune of <hi>So old, so old.</hi>
+                        </opener>
+                        <lg>
+                           <l>The force of winds who can withstand.</l>
+                           <l>In ship, on horse, by Sea or Land.</l>
+                           <l>Its power abroad hath been much showne.</l>
+                           <l>Poor Merchants have it too well knowne.</l>
+                           <pb n="10" facs="tcp:204227:8"/>
+                           <l>So low, so low, so wondrous low,</l>
+                           <l>The Beare-gardens downe:</l>
+                           <l>All passengers see,</l>
+                           <l>It lay on the ground.</l>
+                        </lg>
+                        <lg>
+                           <l>The horse which now the race doth runne,</l>
+                           <l>By force of wind may be undone:</l>
+                           <l>The ship which now the C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>an rid,</l>
+                           <l>Anon may in the sea be hid,</l>
+                           <l>So low, so low, so wondrous low,</l>
+                           <l>The Beare-gardens downe,</l>
+                           <l>All passengers see</l>
+                           <l>It lay on the ground.</l>
+                        </lg>
+                        <lg>
+                           <l>The Bulls and Beares may now rejoyce,</l>
+                           <l>Expressing mirth with merry voyce:</l>
+                           <l>
+                              <hi>Aeolus</hi> the god of windes,</l>
+                           <l>Lately hath prov'd to them kind.</l>
+                           <l>So low, so low, so wondrous low,</l>
+                           <l>The Beare-gardens downe,</l>
+                           <l>All passengers see</l>
+                           <l>It lay on the ground.</l>
+                        </lg>
+                        <lg>
+                           <l>The structure seemed to be rare,</l>
+                           <l>With the which few might compare,</l>
+                           <pb n="11" facs="tcp:204227:8"/>
+                           <l>But now the winds have cast it downe,</l>
+                           <l>The ruines lay flat on the ground.</l>
+                           <l>So low, so low, so wondrous low,</l>
+                           <l>The Beare-gardens downe,</l>
+                           <l>All passengers see</l>
+                           <l>It lay on the ground.</l>
+                        </lg>
+                        <lg>
+                           <l>Let not projectors brag nor boast,</l>
+                           <l>Because of late they rul'd the roast.</l>
+                           <l>Their pride may chance to have a trip,</l>
+                           <l>If <hi>Gregory</hi> cast them on the hip.</l>
+                           <l>So low, so low so wondrous low.</l>
+                           <l>The Beargardens downe.</l>
+                           <l>All passengers see,</l>
+                           <l>It lay on the ground.</l>
+                        </lg>
+                        <lg>
+                           <l>Let Masse priests pack away to <hi>Rome,</hi>
+                           </l>
+                           <l>Least when they come to heare their doo<gap reason="illegible" resp="#keyers" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>.</l>
+                           <l>For very feare they chance to fall.</l>
+                           <l>Crosses, bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s, tapers, and all.</l>
+                           <l>So low, so low, so wondrous low,</l>
+                           <l>The Beare-gardens downe,</l>
+                           <l>All passengers see</l>
+                           <l>It lay on the ground.</l>
+                        </lg>
+                        <pb n="12" facs="tcp:204227:9"/>
+                        <lg>
+                           <l>The breath of Iustice is more strong,</l>
+                           <l>Than <hi>Boreas</hi> blasts, therefore along.</l>
+                           <l>Pack baldpates, Iesuits and Friers.</l>
+                           <l>Projectors till tis our desires.</l>
+                           <l>Least low, so low, so wondrous low.</l>
+                           <l>You all doe fall downe.</l>
+                           <l>And passengers see.</l>
+                           <l>You lay on the ground.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>
+                  <hi>You have done now durty Clod have you not?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>
+                  <hi>Yes knavish projector that I have.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>
+                  <hi>If ever projector comes into esti<g ref="char:EOLhyphen"/>mation againe, you shall at Tiburne sing another song to a sorrowfull tune.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>
+                  <hi>Thanke you master projector, I thus with my other song take my leave of you.</hi>
+               </p>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>A SONG.</head>
+                        <opener>To the tune of the Gipsies.</opener>
+                        <lg>
+                           <l>Some did England molest,</l>
+                           <l>And the poor much opprest,</l>
+                           <l>And I dare to protest,</l>
+                           <l>They did it not in iesr,</l>
+                           <pb n="13" facs="tcp:204227:9"/>
+                           <l>I love so well our English Crowne.</l>
+                           <l>I wish projectors were puld downe.</l>
+                        </lg>
+                        <lg>
+                           <l>Our Leather hath been deare,</l>
+                           <l>Which made for some good cheere,</l>
+                           <l>Which now are nere the neare.</l>
+                           <l>But surely stinks for feare.</l>
+                           <l>I love so well our English Crowne.</l>
+                           <l>I wish projectors were puld downe.</l>
+                        </lg>
+                        <lg>
+                           <l>Tobacco that was made</l>
+                           <l>To be a Lordlike trade.</l>
+                           <l>Those which had but a spade.</l>
+                           <l>Have now a bilbo blade.</l>
+                           <l>I love so well our English Crowne.</l>
+                           <l>I wish projectors were puld downe.</l>
+                        </lg>
+                        <lg>
+                           <l>And wine that was made deare,</l>
+                           <l>I would not have mine eare,</l>
+                           <l>A peeping hole so neare,</l>
+                           <l>As of one I did heare.</l>
+                           <l>I love so well our English Crowne.</l>
+                           <l>I wish projectors were puld downe.</l>
+                        </lg>
+                        <lg>
+                           <l>Wee had a dearth of Sope.</l>
+                           <l>But now as I doe hope,</l>
+                           <pb n="14" facs="tcp:204227:10"/>
+                           <l>Those which then troad such scope.</l>
+                           <l>Must now dance in a rope.</l>
+                           <l>I love so well our English Crowne.</l>
+                           <l>I wish projectors were puld downe.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Plough.</speaker>
+               <p>
+                  <hi>How like you this projector.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proj.</speaker>
+               <p>
+                  <hi>As well as I like your selfe, and that is, worse then the Devill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plou.</speaker>
+               <l>Farewell projector I love thee so well,</l>
+               <l>That I doe wish thee or thy deeds in hell.</l>
+               <l>If thou stay long sure Tiburne it wil mourn.</l>
+               <l>And laugh us honest Countriman to scorne.</l>
+               <l>Young Grig: in stead of hang man, knave will bee.</l>
+               <l>Because such as thy selfe, doe goe scotfree.</l>
+               <l>I love a man, but never such an evill.</l>
+               <l>That proves good vnto none except the De<g ref="char:EOLhyphen"/>vill.</l>
+               <l>Once more farewell, to thee I say ade<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>When I want knavery, I will send for you.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204227:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
